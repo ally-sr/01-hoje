@@ -4,6 +4,7 @@ export const AppContainer = styled.div`
     width: 100%;
     height: 100%;
     background-color: #0D0D0D;
+    
 `
 
 export const AppContent = styled.div`
