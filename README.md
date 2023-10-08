@@ -1,27 +1,18 @@
-# React + TypeScript + Vite
+# Hoje.  |  allysr.dev
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Olá! bem vindo ao meu projeto pessoal chamado "Hoje"!
 
-Currently, two official plugins are available:
+Ele foi criado para ajudar no meu foco diário em tarefas prioritárias, baseado no desafio #1 da trilha de ReactJS da Rocketseat, com a adição do meu toque pessoal ao design.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+O projeto foi desenvolvido usando React com Typescript, Vite, Styled Components e Lucide React para os ícones.
 
-## Expanding the ESLint configuration
+Fique à vontade para explorar o projeto e fornecer feedback. Espero que seja útil para melhorar a produtividade diária de outros. Agradeço a todos que contribuíram e espero que seja uma fonte de inspiração para outros desenvolvedores.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+Confira o projeto aqui:
+https://hoje.allysr.dev/
 
-- Configure the top-level `parserOptions` property like this:
+Utilizei o layout original disponível no Figma, que você pode acessar aqui:
+https://lnkd.in/d6ZcE-Nw
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
